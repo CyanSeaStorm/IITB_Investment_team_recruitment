@@ -45,6 +45,7 @@ w2 = 0.4
 w3 - 0.3  
 
 
+
 (These things I chose, there are other ways to determine them,I had researched them previously, like by finding the best w1 and w2 and w3 then finding a point a little more equidistant) 
 
 Then ran the backtesting over some 15 stokes to check for overfitting, preformed  well.
@@ -66,6 +67,11 @@ These are the results when H had an higher limit of 73 <img width="1248" height=
 Heat map for the same.
 <img width="2400" height="1800" alt="fine_grid_heatmap" src="https://github.com/user-attachments/assets/29a0b9df-8afc-429d-9ed0-82799232a60a" />. course search heat map <img width="1130" height="912" alt="image" src="https://github.com/user-attachments/assets/f39aace1-0227-406d-a09b-db609ab3bfd0" />
 
-The code was generated with the help of gemini.
+The code was generated with the help of gemini. 
+I addjusted the weights for giving more weight to Sharpe Ratio, then return, then Calmar as it made much more sense to me as I wanted to give more weight to  reward vs risk, then returns and Calmare ratio as it focused on the market dropdowns which I think matter a little less compared to the other things 
+
+<img width="757" height="609" alt="image" src="https://github.com/user-attachments/assets/16141601-9525-456b-9eb3-59c286ffce62" />, vectorbits are present in the folder new_weights_plots
+
+
 
 
