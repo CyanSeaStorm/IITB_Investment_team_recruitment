@@ -66,6 +66,6 @@ These are the results when H had an higher limit of 73 <img width="1248" height=
 Heat map for the same.
 <img width="2400" height="1800" alt="fine_grid_heatmap" src="https://github.com/user-attachments/assets/29a0b9df-8afc-429d-9ed0-82799232a60a" />. course search heat map <img width="1130" height="912" alt="image" src="https://github.com/user-attachments/assets/f39aace1-0227-406d-a09b-db609ab3bfd0" />
 
-
+The code was generated with the help of gemini.
 
 
