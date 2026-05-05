@@ -70,7 +70,7 @@ Heat map for the same.
 The code was generated with the help of gemini. 
 I addjusted the weights for giving more weight to Sharpe Ratio, then return, then Calmar as it made much more sense to me as I wanted to give more weight to  reward vs risk, then returns and Calmare ratio as it focused on the market dropdowns which I think matter a little less compared to the other things 
 
-<img width="757" height="609" alt="image" src="https://github.com/user-attachments/assets/16141601-9525-456b-9eb3-59c286ffce62" />, vectorbits are present in the folder new_weights_plots
+<img width="757" height="609" alt="image" src="https://github.com/user-attachments/assets/16141601-9525-456b-9eb3-59c286ffce62" />, vectorbits are present in the zip_file new_weights_plots.zip
 
 
 
